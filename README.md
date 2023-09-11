@@ -18,4 +18,5 @@ Tenho 15 anos, moro em São José das palmeiras/pr e sou aluno(a) da disciplina 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" windth="80px"/> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" windth="80px"/> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" windth="80px"/> </code>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" windth="80px"/> </code>
 
