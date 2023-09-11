@@ -1,4 +1,4 @@
-<div display="inline-block">
+ <div display="inline-block">
 
 <h1 align="left"> Valdinei Behling</h1>
 <h1 align="left">Bem vindo ao meu perfil GITHUB 🗿🍷🎮✨ </h1>
@@ -20,4 +20,21 @@ Tenho 15 anos, moro em São José das palmeiras/pr e sou aluno(a) da disciplina 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80px" /> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80px" /> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="80px" /> </code>
+
+</br>
+</br>
+<div display="inline-block"
+<p align=" left"> Sou aluno do CE São José </p>
+<p align=" left"> Estou estudando  HTML, CSS3 E JAVASCRIPT </p>
+
+</br>
+Você pode falar comigo pelo [instagram](https://www.instagram.com/valdin3i) e pode conhecer meus projetos já desenvolvidos,estão disponíveis aqui nos repositórios.
+
+</br>
+
+
+
+
+
+
 
